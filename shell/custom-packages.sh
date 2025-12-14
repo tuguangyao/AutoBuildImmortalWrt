@@ -56,3 +56,4 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-nekobox"
 # KMS服务器
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-vlmcsd-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-upnp-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-openvpn-zh-cn"
